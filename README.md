@@ -12,7 +12,7 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 > "Quem nunca errou, nunca tentou algo novo!" Albert Einstein
 
-** Nível iniciante **
+**Nível iniciante**
 
 - Introduçlão a plataforma Java
 - Ambiente de desenvolvimento Java
