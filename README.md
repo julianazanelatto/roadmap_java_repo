@@ -20,26 +20,29 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 **Nível iniciante**
 
-- Introdução a plataforma Java
-- Ambiente de desenvolvimento Java
-- Aprendendo a Sintaxe Java
-- Lógica condicional e Controle de Fluxos em Java
-- Estruturas de repetição e Arrays em Java
-- Entendendo Métodos Java
-- Programação Orientada a Objetos
-- Trabalhando c/ collections em Java
-- Debugging Java
-- Tratamento de exceções em Java
+- Introdução a plataforma Java - [acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd)
+- Ambiente de desenvolvimento Java - [acesse o curso](https://web.dio.me/course/configurando-ambiente-de-desenvolvimento-java-no-linux/learning/0668bbda-e32e-44bc-9100-d9dd781bdf8f)
+- Aprendendo a Sintaxe Java - [acesse o curso]()
+- Lógica condicional e Controle de Fluxos em Java - [acesse o curso]()
+- Estruturas de repetição e Arrays em Java - [acesse o curso]()
+- Entendendo Métodos Java - [acesse o curso]()
+- Programação Orientada a Objetos - [acesse o curso]()
+- Trabalhando c/ collections em Java - [acesse o curso]()
+- Debugging Java - [acesse o curso]()
+- Tratamento de exceções em Java - [acesse o curso]()
 
 
 **Spring Framework***
 	
-- Gerenciamento de dep. em Java com Maven	
-- Imersão no Spring Framework com Spring boot	
-- Criando uma API REST documentada com Spring Web	
+- Gerenciamento de dep. em Java com Maven - [acesse o curso]()
+- Imersão no Spring Framework com Spring boot - [acesse o curso]()
+- Criando uma API REST documentada com Spring Web - [acesse o curso]()	
 
 
 ## Cursos avulsos na plataforma
+
+Abaixo temos os cursos listados por nível. Para acessar a listagem geral dos cursos na DIO.me acesse o [link](https://web.dio.me/play?skill=a000ba41-408d-47be-b21a-72b97a1acded&tab=cursos)
+
 
 **Iniciante**
 		
@@ -98,16 +101,16 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 **AVANÇADO**		
 		
 - Domine o estilo arquitetura REST - [acesse o curso]()
-- Adicionando segurança a uma API REST com spring Security - [acesse o curso]()		
-- Desenvolvimento avançado em Java - [acesse o curso]()
+- Adicionando segurança a uma API REST com spring Security - [acesse o curso](https://web.dio.me/course/adicionando-seguranca-a-uma-api-rest-com-spring-security/learning/99032de1-b0da-4986-9907-6028acc4202d)		
+- Desenvolvimento avançado em Java - [acesse o curso](https://web.dio.me/course/mensageria-com-spring-amqp-e-rabbitmq-1/learning/4c5a15d0-f42d-4301-9de0-55f5e152934e)
 - Programação Reativa com Java Web Flux - [acesse o curso]()
 		
 - Criando um microsserviço de upload de imagens com amazon S3 - [acesse o curso]()		
-- Criando uma API REST conectada ao Amazon RDS com Java - [acesse o curso]()
+- Criando uma API REST conectada ao Amazon RDS com Java - [acesse o curso](https://web.dio.me/course/criando-uma-api-rest-conectada-ao-amazon-rds-com-java/learning/16ea8b83-292e-4aec-b4ad-7c0429829770)
 - Criando uma API Gateway  no ambiente Azure Spring Cloud - [acesse o curso]()
 		
-- Mensageria com Spring AMQP e RabbitMQ - [acesse o curso]()
-- Arquitetura Orientada a Eventos com Java, Spring boot e Kafka - [acesse o curso]()		
+- Mensageria com Spring AMQP e RabbitMQ - [acesse o curso](https://web.dio.me/course/mensageria-com-spring-amqp-e-rabbitmq-1/learning/4c5a15d0-f42d-4301-9de0-55f5e152934e)
+- Arquitetura Orientada a Eventos com Java, Spring boot e Kafka - [acesse o curso](https://web.dio.me/course/arquitetura-orientada-a-eventos-com-java-spring-boot-e-kafka/learning/2ca710ba-6a28-481c-a663-6f85aaec329b)		
 - Microsserviços em Sring Cloud em Java	- [acesse o curso]() - [acesse o curso]()
 
 Tasks para continuar evoluindo:
