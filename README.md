@@ -10,6 +10,19 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 ![roadmap_java](https://user-images.githubusercontent.com/81716096/194948652-a94dc040-754d-4540-bf64-083d7125dbdb.png)
 
+** Nível iniciante **
+
+> Introduçlão a plataforma Java
+> Ambiente de desenvolvimento Java
+> Aprendendo a Sintaxe Java
+> Lógica condicional e Controle de Fluxos em Java
+> Estruturas de repetição e Arrays em Java
+> Entendendo Métodos Java
+> Programação Orientada a Objetos
+> Trabalhando c/ collections em Java
+> Debugging Java
+> Tratamento de exceções em Java
+
 
 [comment]: <> (<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">)
 [comment]: <> (você poderá usar tags HTML)
