@@ -112,11 +112,11 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 Tasks para continuar evoluindo:
 
-- [] Assista ao curso
-- [] Faça anotações
-- [] Faça os projetos sozinho
-- [] Tire as dúvidas
-- [] Done! 🎉 (:tada:)
+- [ ] Assista ao curso
+- [ ] Faça anotações
+- [ ] Faça os projetos sozinho
+- [ ] Tire as dúvidas
+- [ ] Done! 🎉 (:tada:)
 
 
 [comment]: <> (<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">)
