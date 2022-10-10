@@ -3,6 +3,10 @@
 
 ## Do iniciante ao avançado
 
+### Descrição: 
+
+Este roadmap é voltado para iniciantes que desejam ingressar na área de programação com Java. Os cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me.
+
 ![roadmap_java](https://user-images.githubusercontent.com/81716096/194948652-a94dc040-754d-4540-bf64-083d7125dbdb.png)
 
 
