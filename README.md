@@ -91,26 +91,29 @@ Abaixo temos os cursos listados por nível. Para acessar a listagem geral dos cu
 -> Web(site e android)
 - Introdução a JSF para aplicação web - [acesse o curso](https://web.dio.me/course/introducao-jsf-para-aplicacao-web/learning/4f19e7e6-42a7-4724-a51d-5a2f50209460)
 - Desmistificando Android studio na prática - [acesse o curso](https://web.dio.me/course/desmistificando-o-android-studio-na-pratica/learning/aae42b53-2da2-4768-8f3d-12e6bec6c81d)
-- Componentes Layout UI/UX em apps Android - [acesse o curso]()
+- Componentes Layout UI/UX em apps Android - [acesse o curso](https://web.dio.me/course/componentes-layouts-e-uiux-em-apps-android/learning/617ea9b7-cb37-4f99-a307-e9b6001f179e)
 		
 -> Mensageria
-- Introdução a microsserviços - [acesse o curso]()
-- Introdução a sistemas de mensagerias com Java - [acesse o curso]()
+- Introdução a microsserviços - [acesse o curso](https://web.dio.me/course/java-introducao-a-microsservicos/learning/5ee9763c-2243-4f68-83e7-463856f58fa8)
+- Introdução a sistemas de mensagerias com Java - [acesse o curso](https://web.dio.me/course/introducao-a-sistemas-de-mensagerias-com-java/learning/25ddc7f9-2fb7-4796-8eb8-61879e13658e)
 		
 **AVANÇADO**		
 		
-- Domine o estilo arquitetura REST - [acesse o curso]()
+- Domine o estilo arquitetural REST - [acesse o curso](https://web.dio.me/course/domine-o-estilo-arquitetural-rest-com-o-spring-web/learning/2b52b79d-f958-4896-b858-e4e58ac76c06)
 - Adicionando segurança a uma API REST com spring Security - [acesse o curso](https://web.dio.me/course/adicionando-seguranca-a-uma-api-rest-com-spring-security/learning/99032de1-b0da-4986-9907-6028acc4202d)		
 - Desenvolvimento avançado em Java - [acesse o curso](https://web.dio.me/course/mensageria-com-spring-amqp-e-rabbitmq-1/learning/4c5a15d0-f42d-4301-9de0-55f5e152934e)
-- Programação Reativa com Java Web Flux - [acesse o curso]()
+- Programação Reativa com Java Web Flux - [acesse o curso](https://web.dio.me/course/spring-webflux/learning/aab88703-1e8a-48ca-9a17-8189b45d0f76)
 		
-- Criando um microsserviço de upload de imagens com amazon S3 - [acesse o curso]()		
+		
+-> Cloud
+- Criando um microsserviço de upload de imagens com amazon S3 - [acesse o curso]()
 - Criando uma API REST conectada ao Amazon RDS com Java - [acesse o curso](https://web.dio.me/course/criando-uma-api-rest-conectada-ao-amazon-rds-com-java/learning/16ea8b83-292e-4aec-b4ad-7c0429829770)
-- Criando uma API Gateway  no ambiente Azure Spring Cloud - [acesse o curso]()
-		
+- Criando uma API Gateway  no ambiente Azure Spring Cloud - [acesse o curso](https://web.dio.me/course/criando-api-gateways-no-ambiente-azure-spring-cloud/learning/dd5a7bbe-28fb-4207-b374-bac82f2e48a1)
+	
+-> Arquitetura de software Moderna
 - Mensageria com Spring AMQP e RabbitMQ - [acesse o curso](https://web.dio.me/course/mensageria-com-spring-amqp-e-rabbitmq-1/learning/4c5a15d0-f42d-4301-9de0-55f5e152934e)
 - Arquitetura Orientada a Eventos com Java, Spring boot e Kafka - [acesse o curso](https://web.dio.me/course/arquitetura-orientada-a-eventos-com-java-spring-boot-e-kafka/learning/2ca710ba-6a28-481c-a663-6f85aaec329b)		
-- Microsserviços em Sring Cloud em Java	- [acesse o curso]() - [acesse o curso]()
+- Microsserviços em Sring Cloud em Java	- [acesse o curso](https://web.dio.me/course/micro-servicos-em-spring-cloud-com-java/learning/00467dc2-9bec-4414-9943-8b0ca56b6c7f)
 
 Tasks para continuar evoluindo:
 
