@@ -13,7 +13,7 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 > "Quem nunca errou, nunca tentou algo novo!" Albert Einstein
 
 
-`` system.out.println("Hello mworld! Sua jornada começou?") `` 
+`` system.out.println("Hello mworld! Sua jornada começou!") `` 
 
 
 ## Cursos ordenados por nível de dificuldade no bootcamp Ifood - DIO
